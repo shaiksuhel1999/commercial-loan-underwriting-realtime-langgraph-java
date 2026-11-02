@@ -1,0 +1,8 @@
+{
+  "applicationId": "LN-MISSING-001",
+  "companyName": "Northwind Traders Private Limited",
+  "loanAmount": 15000000,
+  "documents": [
+    "COVER NOTE (SYNTHETIC TEST DATA)\nNorthwind Traders Private Limited\nWe are a wholesale distributor established in 2015 and would like to apply for a working capital loan of INR 1,50,00,000. Our business is doing well and we have a good relationship with our bank. Financial statements, bank statements and tax returns can be provided on request."
+  ]
+}
